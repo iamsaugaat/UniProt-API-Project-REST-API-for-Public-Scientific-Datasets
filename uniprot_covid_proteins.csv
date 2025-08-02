@@ -1,0 +1,36 @@
+Accession,Entry Name,Protein Name,Organism,Length
+Q8IUC6,TCAM1_HUMAN,TIR domain-containing adapter molecule 1,Homo sapiens,712
+Q92985,IRF7_HUMAN,Interferon regulatory factor 7,Homo sapiens,503
+P00973,OAS1_HUMAN,2'-5'-oligoadenylate synthase 1,Homo sapiens,400
+P48551,INAR2_HUMAN,Interferon alpha/beta receptor 2,Homo sapiens,515
+P17181,INAR1_HUMAN,Interferon alpha/beta receptor 1,Homo sapiens,557
+P11226,MBL2_HUMAN,Mannose-binding protein C,Homo sapiens,248
+O15455,TLR3_HUMAN,Toll-like receptor 3,Homo sapiens,904
+Q14653,IRF3_HUMAN,Interferon regulatory factor 3,Homo sapiens,427
+Q9UHD2,TBK1_HUMAN,Serine/threonine-protein kinase TBK1,Homo sapiens,729
+Q9NYK1,TLR7_HUMAN,Toll-like receptor 7,Homo sapiens,1049
+Q8N884,CGAS_HUMAN,Cyclic GMP-AMP synthase,Homo sapiens,522
+P02649,APOE_HUMAN,Apolipoprotein E,Homo sapiens,317
+Q86WV6,STING_HUMAN,Stimulator of interferon genes protein,Homo sapiens,379
+O95721,SNP29_HUMAN,Synaptosomal-associated protein 29,Homo sapiens,258
+Q96JC1,VPS39_HUMAN,Vam6/Vps39-like protein,Homo sapiens,886
+Q9BV40,VAMP8_HUMAN,Vesicle-associated membrane protein 8,Homo sapiens,100
+Q96P20,NLRP3_HUMAN,"NACHT, LRR and PYD domains-containing protein 3",Homo sapiens,1036
+O14786,NRP1_HUMAN,Neuropilin-1,Homo sapiens,923
+P56962,STX17_HUMAN,Syntaxin-17,Homo sapiens,302
+P10275,ANDR_HUMAN,Androgen receptor,Homo sapiens,920
+P49754,VPS41_HUMAN,Vacuolar protein sorting-associated protein 41 homolog,Homo sapiens,854
+P26715,NKG2A_HUMAN,NKG2-A/NKG2-B type II integral membrane protein,Homo sapiens,233
+Q8N3R9,PALS1_HUMAN,Protein PALS1,Homo sapiens,675
+P35613,BASI_HUMAN,Basigin,Homo sapiens,385
+O60443,GSDME_HUMAN,Gasdermin-E,Homo sapiens,496
+O15393,TMPS2_HUMAN,Transmembrane protease serine 2,Homo sapiens,492
+O60603,TLR2_HUMAN,Toll-like receptor 2,Homo sapiens,784
+P09958,FURIN_HUMAN,Furin,Homo sapiens,794
+Q9BYF1,ACE2_HUMAN,Angiotensin-converting enzyme 2,Homo sapiens,805
+P57764,GSDMD_HUMAN,Gasdermin-D,Homo sapiens,484
+Q9C000,NLRP1_HUMAN,"NACHT, LRR and PYD domains-containing protein 1",Homo sapiens,1473
+P05109,S10A8_HUMAN,Protein S100-A8,Homo sapiens,93
+P27487,DPP4_HUMAN,Dipeptidyl peptidase 4,Homo sapiens,766
+P04439,HLAA_HUMAN,"HLA class I histocompatibility antigen, A alpha chain",Homo sapiens,365
+P01889,HLAB_HUMAN,"HLA class I histocompatibility antigen, B alpha chain",Homo sapiens,362
