@@ -71,6 +71,7 @@ These patterns confirm that protein length and associated domains are highly var
 - Builds **reproducible and interactive tools** for research teams.
 - Bridges **data engineering and biological insights**, making it a powerful asset for bioinformatics-driven organizations.
 
+https://uniprot-api-project-rest-api-for-public-scientific-datasets-5q.streamlit.app/
 ---
 
 ## Tech Stack
